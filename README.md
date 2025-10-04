@@ -4,4 +4,4 @@ Version 1.5.3 - [Use](https://roheydel.github.io/TCCC_Training_App_WebVersion/La
 
 Download<br>
 ## Android 
-Version 1.5.7 (64bit) - [Download](https://github.com/roheydel/TCCC_Training_App_WebVersion/releases/download/release/Build_1.5.7_64bit.apk)<br>
+Version 1.6.0 (64bit) - [Download](https://github.com/roheydel/TCCC_Training_App_WebVersion/releases/download/release/Build_1.6.0_64bit.apk)<br>
